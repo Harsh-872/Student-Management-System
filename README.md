@@ -103,7 +103,7 @@ AUTHOR
 
 Name: Harsh Mangal
 
-Department: BTech CSE
+Department: BTech CSE Core
 
 Registration No.: 25BCE10372
 
